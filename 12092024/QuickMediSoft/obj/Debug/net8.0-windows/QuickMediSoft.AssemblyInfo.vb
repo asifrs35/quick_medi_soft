@@ -16,7 +16,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("QuickMediSoft"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+868aee331bd3cfcc5e69f9e1f2f38b003cecbd14"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6f123ebd922f94857f1c8a5b628b3df8a68630ff"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("QuickMediSoft"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("QuickMediSoft"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0"),  _

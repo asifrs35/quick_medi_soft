@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Asif\\OneDrive\\Documents\\QuicMediSoft\\QuickMediSoft\\QuickMediSoft.vbproj",
+      "projectUniqueName": "C:\\Users\\Asif\\OneDrive\\Documents\\GitHub\\quick_medi_soft\\12092024\\QuickMediSoft\\QuickMediSoft.vbproj",
       "projectName": "QuickMediSoft",
-      "projectPath": "C:\\Users\\Asif\\OneDrive\\Documents\\QuicMediSoft\\QuickMediSoft\\QuickMediSoft.vbproj",
+      "projectPath": "C:\\Users\\Asif\\OneDrive\\Documents\\GitHub\\quick_medi_soft\\12092024\\QuickMediSoft\\QuickMediSoft.vbproj",
       "packagesPath": "C:\\Users\\Asif\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Asif\\OneDrive\\Documents\\QuicMediSoft\\QuickMediSoft\\obj\\",
+      "outputPath": "C:\\Users\\Asif\\OneDrive\\Documents\\GitHub\\quick_medi_soft\\12092024\\QuickMediSoft\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

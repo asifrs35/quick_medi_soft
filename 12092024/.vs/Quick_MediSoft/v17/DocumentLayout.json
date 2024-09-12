@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Medi_Project_Repository\\Quick_MediSoft\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E8F6BF46-FBCC-4764-B954-1C5484061C10}|Quick_MediSoft\\Quick_MediSoft.vbproj|d:\\medi_project_repository\\quick_medisoft\\quick_medisoft\\homescreen.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{E8F6BF46-FBCC-4764-B954-1C5484061C10}|Quick_MediSoft\\Quick_MediSoft.vbproj|solutionrelative:quick_medisoft\\homescreen.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8F6BF46-FBCC-4764-B954-1C5484061C10}|Quick_MediSoft\\Quick_MediSoft.vbproj|d:\\medi_project_repository\\quick_medisoft\\quick_medisoft\\homescreen.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{E8F6BF46-FBCC-4764-B954-1C5484061C10}|Quick_MediSoft\\Quick_MediSoft.vbproj|solutionrelative:quick_medisoft\\homescreen.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeScreen.vb",
+              "DocumentMoniker": "D:\\Medi_Project_Repository\\Quick_MediSoft\\Quick_MediSoft\\HomeScreen.vb",
+              "RelativeDocumentMoniker": "Quick_MediSoft\\HomeScreen.vb",
+              "ToolTip": "D:\\Medi_Project_Repository\\Quick_MediSoft\\Quick_MediSoft\\HomeScreen.vb",
+              "RelativeToolTip": "Quick_MediSoft\\HomeScreen.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-09-09T09:56:08.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeScreen.vb [Design]",
+              "DocumentMoniker": "D:\\Medi_Project_Repository\\Quick_MediSoft\\Quick_MediSoft\\HomeScreen.vb",
+              "RelativeDocumentMoniker": "Quick_MediSoft\\HomeScreen.vb",
+              "ToolTip": "D:\\Medi_Project_Repository\\Quick_MediSoft\\Quick_MediSoft\\HomeScreen.vb [Design]",
+              "RelativeToolTip": "Quick_MediSoft\\HomeScreen.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-09-09T09:55:14.183Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
